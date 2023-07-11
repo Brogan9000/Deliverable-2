@@ -1,7 +1,7 @@
 ﻿using System;
 using System.ComponentModel.Design;
 
-namespace Methods_2
+namespace Deliverable 2
 {
     class Program
     {
